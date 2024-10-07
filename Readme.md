@@ -4,9 +4,9 @@ Dear developers, our next project currently have to deploy some additional funct
 TODO :
 - Make sure that you **run a test before tommorow** to confirm that it fit with your current configuration.
 - **Ensure the directory** in the project.
-## Download
+## Download Cmdline
 ```
-https://github.com/jks-lab/Update-Producer-for-Next-Project.git
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/jks-lab/Update-Producer-for-Next-Project/main/KafkaProducer.java" -OutFile "KafkaProducer.java"
 ```
 ## File Structure
 ```
