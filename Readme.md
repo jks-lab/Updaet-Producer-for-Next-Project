@@ -1,9 +1,8 @@
 # Update Kafka Producer For Next Project
 Dear developers, our next project currently have to deploy some additional function that need producer to be updated!
 
-TODO :
+NOTE :
 - Make sure that you **run a test before tommorow** to confirm that it fit with your current configuration.
-- **Ensure the directory** in the project.
 ## Download Cmdline
 ```
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/jks-lab/Update-Producer-for-Next-Project/main/KafkaProducer.java" -OutFile "KafkaProducer.java"
