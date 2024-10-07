@@ -3,7 +3,7 @@ Dear developers, our next project currently have to deploy some additional funct
 
 ## Download
 ```
-
+https://github.com/jks-lab/Update-Producer-for-Next-Project.git
 ```
 ## File Structure
 ```
