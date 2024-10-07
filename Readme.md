@@ -39,7 +39,6 @@ http://localhost:8899
 example-topic
 ```
 ## Kafka Consumer
-How to receive messages?
 ```
 Just run the application and it will show up in console.
 ```
