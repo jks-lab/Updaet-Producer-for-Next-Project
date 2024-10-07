@@ -1,6 +1,9 @@
 # Update Kafka Producer For Next Project
 Dear developers, our next project currently have to deploy some additional function that need producer to be updated!
 
+TODO :
+- Make sure that you **run a test before tommorow** to confirm that it fit with your current configuration.
+- **Ensure the directory** in the project.
 ## Download
 ```
 https://github.com/jks-lab/Update-Producer-for-Next-Project.git
@@ -51,8 +54,3 @@ example-topic
 Zookeeper
 Kafka
 ```
-
-TODO : This is the updated producer for next project running, here some check to do:
-- **Make sure that you run a test before tommorow** to confirm that it fit with your current configuration.
-- **Ensure the directory in the project.**
-
