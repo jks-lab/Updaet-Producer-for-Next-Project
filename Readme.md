@@ -23,4 +23,6 @@ Zookeeper
 Kafka
 ```
 
-TODO : This is the updated producer for next project running, So **Make sure that you run a test before tommorow** to confirm that it fit with your current configuration.
+TODO : This is the updated producer for next project running, here some check to do:
+- **Make sure that you run a test before tommorow** to confirm that it fit with your current configuration.
+- **Ensure the directory in the project.**
