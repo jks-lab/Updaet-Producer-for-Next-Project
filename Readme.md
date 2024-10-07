@@ -40,7 +40,7 @@ example-topic
 ```
 ## Kafka Consumer
 ```
-Just run the application and it will show up in console.
+Just run the application and it will show up in Database web interface.
 ```
 ## Kafka topic
 ```
