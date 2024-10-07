@@ -42,10 +42,6 @@ example-topic
 ```
 Just run the application and it will show up in Database web interface.
 ```
-## Kafka topic
-```
-example-topic
-```
 ## Requirements to run the template
 ```
 Zookeeper
