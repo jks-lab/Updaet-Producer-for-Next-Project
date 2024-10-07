@@ -30,8 +30,7 @@ SpringKafkaDemo/
 ├── pom.xml                                                   // Maven configuration file
 └── README.md   
 ```
-## Kafka Producer
-How to produce messages?
+## Kafka Producer Web Interface
 ```
 http://localhost:8899
 ```
