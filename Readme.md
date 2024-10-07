@@ -11,9 +11,9 @@ http://localhost:8899
 example-topic
 ```
 ## Kafka Consumer
-How to produce messages?
+How to receive messages?
 ```
-Just run the application and start producing messages, It will show up in console.
+Just run the application and it will show up in console.
 ```
 ## Kafka topic
 ```
