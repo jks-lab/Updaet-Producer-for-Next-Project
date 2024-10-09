@@ -5,7 +5,7 @@ NOTE :
 - Make sure that you **run a test before tommorow** to confirm that it fit with your current configuration.
 ## Download Cmdline
 ```
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/jks-lab/Update-Producer-for-Next-Project/main/KafkaProducer.java" -OutFile "KafkaProducer.java"
+git clone https://github.com/jks-lab/Update-Producer-for-Next-Project.git
 ```
 ## File Structure
 ```
